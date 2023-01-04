@@ -21,7 +21,7 @@ Array.prototype.uniq = function() {
     // });
 
     return finalArr;
-};
+}
 
 Array.prototype.twoSum = function(){
     const pair = [];
